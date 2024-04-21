@@ -1,0 +1,3 @@
+[aiming__byCorrelationFunction.py] xMax   :: 1.5
+[aiming__byCorrelationFunction.py] max(C) :: 0.4358532547320541
+[ save__figure -@plot1d- ] out :: png/aiming__byCorrelationFunction.png

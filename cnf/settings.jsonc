@@ -1,0 +1,9 @@
+{
+    "dist.inpFile":"dat/distribution.dat",
+    "xA.MinMaxNum":[ 0.0, 12.0, 121.0 ],
+    "dx.MinMaxNum":[ 0.0, 10.0, 101.0 ],
+    "plot.xMinMaxNum":[ 0.0, 10.0, 11 ],
+    "plot.yMinMaxNum":[ 0.0,  0.6,  7 ],
+    "gamma.sigma":2.6,
+    "pngFile":"png/aiming__byCorrelationFunction.png"
+}
